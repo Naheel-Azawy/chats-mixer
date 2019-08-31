@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allsms count="2">
+	<sms address="Alice" time="Aug 3, 2019 5:56:52 PM" date="1564844212914" type="2" body="Hello from SMS" />
+	<sms address="Bob" time="Aug 3, 2019 5:51:50 PM" date="1564843910695" type="1" body="Hi SMS" />
+</allsms>

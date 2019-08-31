@@ -1,0 +1,19 @@
+{
+    "to": {
+        "real":      "Alice",
+        "instagram": "Alice",
+        "facebook":  "Alice",
+        "whatsapp":  "Alice",
+        "telegram":  "Alice",
+        "sms":       "Alice"
+    },
+    "from": {
+        "real":      "Bob",
+        "instagram": "Bob",
+        "facebook":  "Bob",
+        "whatsapp":  "Bob",
+        "telegram":  "Bob",
+        "sms":       "Bob"
+    },
+    "title_extra": " !!!"
+}

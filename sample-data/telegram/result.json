@@ -1,0 +1,22 @@
+{
+    "chats": {
+        "about": "This page lists all chats from this export.",
+        "list": [
+            {
+                "name": "Alice",
+                "messages": [
+                    {
+                        "from": "Bob",
+                        "date": "2019-07-08T13:49:04",
+                        "text": "Hi from Telegram"
+                    },
+                    {
+                        "from": "Alice",
+                        "date": "2019-07-08T13:49:04",
+                        "text": "Hi Telegram"
+                    }
+                ]
+            }
+        ]
+    }
+}

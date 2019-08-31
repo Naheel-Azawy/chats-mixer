@@ -1,0 +1,21 @@
+* CHATS-MIXER
+  Mixes chats from different services into a single JSON and a compressed and encrypted HTML.
+
+** Example
+  [[./screenshots/ab.png]]
+  HTML and JSON versions can be found under `sample-out/`
+
+** Supported services
+   - Whatsapp
+   - Facebook
+   - Instagram
+   - Telegram
+   - SMS
+
+** TODO [0/3]
+   - [ ] Media files
+   - [ ] Messages replies
+   - [ ] Other kinds of messages (Instagram stories, Telegram stickers, ...)
+
+** License
+   GPL-3

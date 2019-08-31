@@ -1,0 +1,24 @@
+{
+    "participants": [
+        {
+            "name": "Alice"
+        },
+        {
+            "name": "Bob"
+        }
+    ],
+    "messages": [
+        {
+            "sender_name": "Bob",
+            "timestamp_ms": 1558797512167,
+            "content": "Hello from Facebook",
+            "type": "Generic"
+        },
+        {
+            "sender_name": "Alice",
+            "timestamp_ms": 1558797508436,
+            "content": "Hello Facebook",
+            "type": "Generic"
+        }
+    ]
+}
