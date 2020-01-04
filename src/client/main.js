@@ -386,6 +386,7 @@ async function main_page() {
 }
 
 async function main() {
+    window.onbeforeunload = () => "Are you sure you want to exit?";
     main_div.innerHTML = PASS_HTML;
     let pass = document.getElementById("pass");
     let pass_go = document.getElementById("passgo");
